@@ -1,0 +1,135 @@
+*{
+    background-color: rgb(221, 230, 230);
+}
+h1{
+    position: absolute;
+    left: 575px;
+    font-size: 20px;
+    color: rgb(42, 207, 20);
+}
+h2{
+    position: absolute;
+    left: 425px;
+    font-size: 50px;
+    color: rgb(255, 166, 0);
+}
+
+.btn{
+    background: rgb(255, 166, 0);
+    color: #000;
+    padding: 8px 30px;
+    font-size: 20px;
+    position: absolute;
+    top: 150px;
+    left: 350px;
+    border-radius: 4px
+}
+.red{
+    background: rgb(255, 166, 0);
+    color: #000;
+    padding: 8px 30px;
+    font-size: 20px;
+    position: absolute;
+    top: 150px;
+    left: 550px;
+    border-radius: 4px
+}
+.black{
+    background: rgb(255, 166, 0);
+    color: rgb(5, 5, 5);
+    padding: 8px 30px;
+    font-size: 20px;
+    position: absolute;
+    top: 150px;
+    left: 750px;
+    border-radius: 4px
+}
+.img1{
+    position: absolute;
+    top: 300px;
+    left: 150px;
+    border-radius: 150px;
+}
+.name1{
+    position: absolute;
+    top: 330px;
+    left: 350px;
+    font-size: 25px;
+    color: rgb(255, 81, 0);
+}
+
+.img2{
+    position: absolute;
+    top: 500px;
+    left: 150px;
+    border-radius: 150px;
+}
+.img3{
+    position: absolute;
+    top: 700px;
+    left: 150px;
+    border-radius: 150px;
+}
+.img4{
+    position: absolute;
+    top: 900px;
+    left: 150px;
+    border-radius: 150px;
+}
+.img5{
+    position: absolute;
+    top: 1100px;
+    left: 150px;
+    border-radius: 150px;
+}
+.name2{
+    position: absolute;
+    top: 500px;
+    left: 350px;
+    font-size: 25px;
+    color: rgb(255, 81, 0);
+}
+.name3{
+    position: absolute;
+    top: 700px;
+    left: 350px;
+    font-size: 25px;
+    color: rgb(255, 81, 0);
+}
+.name4{
+    position: absolute;
+    top: 900px;
+    left: 350px;
+    font-size: 25px;
+    color: rgb(255, 81, 0);
+}
+.name5{
+    position: absolute;
+    top: 1100px;
+    left: 350px;
+    font-size: 25px;
+    color: rgb(255, 81, 0);
+}
+.cornerimg{
+    position: absolute;
+    top: 200px;
+    left: 850px;
+    width: 499px;
+    height: 499px;
+    border-radius: 20px;
+}
+.cornerimg1{
+    position: absolute;
+    top: 800px;
+    left: 850px;
+    width: 499px;
+    height: 499px;
+    border-radius: 20px;
+}
+.icon{
+    font-size: 50px;
+    color: aqua;
+    position: absolute;
+    top: 10px; 
+    left: 1200px;
+}

@@ -1,0 +1,63 @@
+body{
+    background-color: rgba(79, 255, 146, 0.774);
+}
+.map{
+    text-align: center;
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    border-radius: 5px;
+}
+h4{
+    position: absolute;
+    top: -50px;
+    left: 500px;
+    color: white;
+    font-size: 50px;
+ }
+ h5{
+     position: absolute;
+     top: -25px;
+     left: 500px;
+     color: rgb(255, 115, 0);
+     font-size: 50px;
+ }
+ h1{
+     position: absolute;
+     top: 150px;
+     left: 575px;
+ }
+ .p1{
+     position: absolute;
+     font-size: 30px;
+     font-weight: bold;
+     top:250px;
+     left: 450px;
+ }
+ .p2{
+     position: absolute;
+     font-size: 30px;
+     font-weight: bold;
+     top: 400px;
+     left: 400px;
+ }
+ h2{
+     position: absolute;
+     font-size:30px ;
+     top: 320px;
+     left: 580px;
+ }
+ .copy{
+     position: absolute;
+     top: 850px;
+     font-weight: bold;
+     font-size: 20px;
+     left: 500px;
+ }
+ .icon{
+    font-size: 50px;
+    color: aqua;
+    position: absolute;
+    top: 10px; 
+    left: 1200px;
+}
